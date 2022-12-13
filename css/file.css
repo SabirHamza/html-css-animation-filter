@@ -205,3 +205,13 @@
     }
 }
 
+/* Esercizio 13 */
+
+.ex-13-bottom-white{
+    animation: esempio4 10s infinite;
+}
+
+.ex-13-top-white{
+    animation: esempio3 10s infinite;
+}
+
