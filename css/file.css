@@ -55,3 +55,32 @@
 }
 
 /* Esercizio 6 */
+
+.ex-6-img:hover{
+    filter: grayscale(1);
+}
+
+/* Esercizio 7 */
+
+.ex-7-img{
+    transition: 1s;
+}
+
+.ex-7-img:hover{
+    filter: blur(10px) saturate(10)
+}
+
+/* Esercizio 8 */
+
+.ex-8-img{
+    transition: 1s;
+}
+
+.ex-8-img:hover{
+    filter: hue-rotate(20deg) grayscale(1);
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+/* Esercizio 9 */
+
