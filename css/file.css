@@ -27,3 +27,31 @@
 .ex-3-square:hover{
     border-radius: 50%;
 }
+
+/* Esercizio 4 */
+
+.ex-4-square{
+    transition: 3s;
+}
+
+.ex-4-square:hover{
+    opacity: 0;
+}
+
+/* Esercizio 5 */
+
+.ex-5-square{
+    transition: 3s;
+}
+
+.ex-5-square:active{
+    width: 10px;
+    height: 10px;
+}
+
+.ex-5-square:hover{
+    width: 100px;
+    height: 100px;
+}
+
+/* Esercizio 6 */
